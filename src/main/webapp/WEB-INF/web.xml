@@ -8,7 +8,7 @@
 
 <servlet>
         <servlet-name>CustGs</servlet-name>
-        <servlet-class>ws.abhis.LoginStaff</servlet-class>
+        <servlet-class>ws.abhis.utdwrkshp.RecordServlet</servlet-class>
        
     </servlet>
 
